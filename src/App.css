@@ -4,15 +4,16 @@
 }
 
 .colour-border{
-  border: 3px solid green;
+  border: 3px solid rgb(86, 211, 61);
   padding: 10px;
 }
 
 .header{
-  padding: 10px;
+  padding: 1000px;
 }
 
 body{
   padding: 10px;
-  background-color: antiquewhite;
+  background-color: rgb(72, 62, 207);
 }
+
